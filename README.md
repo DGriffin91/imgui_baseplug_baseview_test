@@ -1,6 +1,6 @@
 # imgui_baseplug_baseview_test
 
-## Note: parameter synchronization does not currenly work.
+## Note: parameter synchronization does not currently work.
 
 Based on [imgui_baseview_test_vst2](https://github.com/DGriffin91/imgui_baseview_test_vst2)
 
