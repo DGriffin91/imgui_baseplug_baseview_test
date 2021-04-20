@@ -1,11 +1,13 @@
 # imgui_baseplug_baseview_test
 
+## Note: parameter synchronization does not currenly work.
+
 Based on [imgui_baseview_test_vst2](https://github.com/DGriffin91/imgui_baseview_test_vst2)
 
 Barebones [baseview](https://github.com/RustAudio/baseview)/[imgui_baseview](https://github.com/BillyDM/imgui-baseview)
 [baseplug](https://github.com/wrl/baseplug) plugin.
 
-It implements a [imgui-rs](https://github.com/imgui-rs/imgui-rs) ui for the [gain effect example](https://github.com/wrl/baseplug/blob/trunk/examples/gain.rs)
+It implements an [imgui-rs](https://github.com/imgui-rs/imgui-rs) ui for the [gain effect example](https://github.com/wrl/baseplug/blob/trunk/examples/gain.rs)
 
 The plugin logs events to `~/tmp/IMGUIBaseplugBaseviewTest.log`.
 
